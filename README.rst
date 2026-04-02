@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpriyamath329%2Fconfluent-operator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpriyamath329%2Fconfluent-operator?ref=badge_shield)
+
 Confluent Operator 1.x Examples
 ===============================
 
@@ -15,3 +17,7 @@ List of Examples
   
   * `RBAC for authorization, SASL PLAIN for authentication, TLS for full network encryption <./secure-sasl-plain>`_ 
   
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpriyamath329%2Fconfluent-operator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpriyamath329%2Fconfluent-operator?ref=badge_large)
